@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de3f6d2a-fc3d-423a-a8f5-69a74e3cfd8e" name="Default" comment="" />
+    <list default="true" id="de3f6d2a-fc3d-423a-a8f5-69a74e3cfd8e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,13 +17,16 @@
       <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="20">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -29,6 +34,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/dart2_tryparse.dart" />
         <option value="$PROJECT_DIR$/test/dart2_tryparse_test.dart" />
+        <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
       </list>
     </option>
@@ -48,6 +54,7 @@
     <option name="width" value="1122" />
     <option name="height" value="1269" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -166,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529004453379</updated>
-      <workItem from="1529004456800" duration="711000" />
+      <workItem from="1529004456800" duration="957000" />
     </task>
     <servers />
   </component>
@@ -176,7 +183,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="711000" />
+    <option name="totallyTimeSpent" value="957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1232" y="73" width="1122" height="1269" extended-state="0" />
@@ -190,12 +197,12 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Dart Analysis" weight="0.32" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32935154" />
       <window_info anchor="right" id="Flutter Outline" />
       <window_info id="Designer" />
       <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22037037" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -245,10 +252,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="20">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>

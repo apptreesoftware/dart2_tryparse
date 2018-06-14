@@ -1,5 +1,5 @@
 name: dart2_tryparse
-description: A starting point for Dart libraries or applications.
+description: Dart 1 polyfills for Dart 2 tryParse() methods
 version: 1.0.0+dart1
 homepage: https://github.com/apptreesoftware/dart2_tryparse
 author: john ryan <john.p.ryan4@gmail.com>
