@@ -1,25 +1,13 @@
 library dart2_tryparse;
 
 num tryParseNum(String input) {
-  try {
-    return num.parse(input);
-  } on FormatException {
-    return null;
-  }
+  return num.parse(input, (_) => null);
 }
 
 int tryParseInt(String input) {
-  try {
-    return int.parse(input);
-  } on FormatException {
-    return null;
-  }
+  return int.parse(input, onError: (_) => null);
 }
 
 double tryParseDouble(String input) {
-  try {
-    return double.parse(input);
-  } on FormatException {
-    return null;
-  }
+  return double.parse(input, (_) => null);
 }
